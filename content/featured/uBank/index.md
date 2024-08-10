@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'uBank'
+title: 'Assets Borrowing'
 cover: './demo.png'
 github: 'https://github.com/ypo777/uBank'
 external: 'https://github.com/ypo777/uBank'
@@ -9,5 +9,8 @@ tech:
   - MySQL
 ---
 
-- Our Banking Management System is an application for maintaining a person’s account in a bank.
-- The main aim of this project is to develop software for Bank Account Management System.
+- Our Assets Borrowing System is a mobile application for lending and borrowing assets.
+
+- Deals with the stuffs managed manually and avoid human mistakes
+
+- Reduce human effort and time consuming

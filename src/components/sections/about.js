@@ -128,18 +128,17 @@ const About = () => {
 
   const skills = [
     'Python',
-    'Ansible',
+    'Github',
     'Java',
     'C++',
-    'PHP',
+    'C#',
     'Docker',
     'Bash',
+    'Javascript',
+    'Coding(HTML/CSS)',
+    'CI/CD',
   ];
-  const current_learning = [
-    'Pandas',
-    'Numpy',
-    'Sklearn',
-  ];
+  const current_learning = ['Github Action', 'Terraform', 'AWS'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -149,29 +148,25 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Yan Paing Oo and I enjoy creating things that make manual
-              workflow to automation tasks.
+              Hello! My name is P-Thura and I enjoy creating things that make troubles to others.
             </p>
-            <p>
-              I am a student at University of Information Technoglogy Yangon{' '}
-              <a href="https://www.facebook.com/UITMyanmar/"> (UIT)</a>{' '}
-            </p>
-            <p>Major - Knowledge Engineering</p>
+            <p>I am a student at a University. </p>
+            <p>Major - Computer</p>
             <p>
               Fast-forward to today, and I am mostly active at{' '}
-              <a href="https://www.kaggle.com/sherrinford77/"> Kaggle.</a>{' '}
+              <a href="https://www.instagram.com/wreck_ee/"> Instagram.</a>{' '}
             </p>
             <p>Here are a few technologies I’ve been working with recently:</p>
 
-          <ul className="skills-list">
-            {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
-          </ul>
+            <ul className="skills-list">
+              {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
+            </ul>
 
-          <p> Currently I am learning this technologies: </p>
-          <ul className="skills-list">
-            {current_learning && current_learning.map((current,j) => <li key={j}>{current}</li>)}
-          </ul>
-        </div>
+            <p> Currently I am learning this technologies: </p>
+            <ul className="skills-list">
+              {current_learning && current_learning.map((current, j) => <li key={j}>{current}</li>)}
+            </ul>
+          </div>
         </StyledText>
 
         <StyledPic>

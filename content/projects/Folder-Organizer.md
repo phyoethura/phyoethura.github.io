@@ -1,12 +1,11 @@
 ---
 date: '2021-09-01'
-title: 'Folder-Organizer'
-github: 'https://www.github.com/ypo777/Folder-Organizer'
+title: 'Library Program'
+github: 'https://github.com/phyoethura/Library-Program'
 tech:
-  - Python
-  - Rich Library
+  - Java
 showInProjects: true
 ---
 
-- Move Files according to Type And Create Folder Name With Type in Documents.
-- Two Modes ( Auto & Manual Selection)
+- The Project is about library program created by 2nd year students of MFU 2022.
+- The Project includes staff, teacher, librarian and student users.

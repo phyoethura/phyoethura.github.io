@@ -2,7 +2,7 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Yan Paing Oo',
+    title: 'Wrecky',
     description:
       'Yan Paing Oo is a student currently attending in UIT(Yangon) Knowledge Engineering Major',
     siteUrl: 'https://ypo777.github.io', // No trailing slash allowed!

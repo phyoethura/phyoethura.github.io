@@ -60,14 +60,11 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Yan Paing Oo.</h2>;
-  const three = <h3 className="big-heading">I build things for Machine Learning.</h3>;
+  const two = <h2 className="big-heading">P-Thura(Wrecky).</h2>;
+  const three = <h3 className="big-heading">I make troubles for fun.</h3>;
   const four = (
     <>
-      <p>
-        I’m a software engineer specializing in building
-        Machine Learning Model. Currently, I’m focused on building Automation Tools.
-      </p>
+      <p>currently looking for a cloud engineer role as my internship on Jan-April 2025</p>
     </>
   );
   const five = (

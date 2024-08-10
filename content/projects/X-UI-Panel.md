@@ -1,12 +1,10 @@
 ---
 date: '2021-08-15'
-title: 'X-UI-Panel'
-github: 'https://www.github.com/ypo777/x-ui-panel'
+title: 'Calculator'
+github: 'https://github.com/phyoethura/github-final-project.git'
 tech:
-  - Ansible
-  - Docker
   - Bash Script
 shownInProjects: true
 ---
 
-Automation scripts for installing v2ray-vpn on VPS.
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.

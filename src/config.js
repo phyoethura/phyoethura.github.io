@@ -1,14 +1,14 @@
 module.exports = {
-  email: 'yanpaingoo008ypo@gmail.com',
+  email: 'phyoethura75@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/ypo777',
+      url: 'https://github.com/phyoethura',
     },
     //{
     //  name: 'Instagram',
-    //  url: 'https://www.instagram.com/ypo007',
+    //  url: 'https://www.instagram.com/wreck_ee',
     //},
     {
       name: 'Twitter',
@@ -16,7 +16,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/ypo777',
+      url: 'https://www.linkedin.com/in/phyothura',
     },
     // {
     //   name: 'Website',

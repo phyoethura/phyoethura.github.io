@@ -1,18 +1,16 @@
 ---
 date: '2'
-title: 'Hostel Management'
+title: 'Room Reservation'
 cover: './demo.png'
 github: 'https://github.com/ypo777/Hostel-Management-System'
 tech:
-  - PHP
-  - MySQL
-  - Semantic UI
+  - HTML/CSS
+  - Javascript
+  - MYSQL
 ---
 
-- To manage various activities in hostel
+- To manage Room reservations in Campus
 
 - Deals with the stuffs managed manually and avoid human mistakes
 
 - Reduce human effort and time consuming
-
-- Also provides accurate data
