@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-pensieve-tags-js",
+    "path": "/pensieve/tags/",
+    "result": {"data":{"allMarkdownRemark":{"group":[{"fieldValue":"Ansible","totalCount":2},{"fieldValue":"Bash","totalCount":1},{"fieldValue":"Docker","totalCount":1},{"fieldValue":"Fedora","totalCount":1},{"fieldValue":"Linux","totalCount":1}]}},"pageContext":{}},
+    "staticQueryHashes": ["1994492073","2681795072","3391063840","604461682"]}
