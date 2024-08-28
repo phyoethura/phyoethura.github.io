@@ -13,8 +13,9 @@ const IconLogo = () => (
           x="21"
           strokewidth="4"
           stroke="currentColor"
-          fill="currentColor">
-          Y
+          fill="currentColor"
+        >
+          P
         </text>
         <polygon
           id="Shape"

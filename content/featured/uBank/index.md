@@ -2,8 +2,8 @@
 date: '1'
 title: 'Assets Borrowing'
 cover: './demo.png'
-github: 'https://github.com/ypo777/uBank'
-external: 'https://github.com/ypo777/uBank'
+github: 'https://github.com/phyoethura/Borrowing-Assets.git'
+external: 'https://github.com/phyoethura/Borrowing-Assets.git'
 tech:
   - Java
   - MySQL

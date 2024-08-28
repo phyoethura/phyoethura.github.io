@@ -2,7 +2,7 @@
 date: '2'
 title: 'Room Reservation'
 cover: './demo.png'
-github: 'https://github.com/ypo777/Hostel-Management-System'
+github: 'https://github.com/phyoethura/Room-Reservation-Project.git'
 tech:
   - HTML/CSS
   - Javascript
