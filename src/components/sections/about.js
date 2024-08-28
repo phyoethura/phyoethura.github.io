@@ -138,7 +138,7 @@ const About = () => {
     'Coding(HTML/CSS)',
     'CI/CD',
   ];
-  const current_learning = ['Github Action', 'Terraform', 'AWS'];
+  const current_learning = ['Github Action', 'Terraform', 'AWS', 'Kubenetes'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -147,11 +147,9 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>
-              Hello! My name is P-Thura and I enjoy creating things that make troubles to others.
-            </p>
-            <p>I am a student at a University. </p>
-            <p>Major - Computer</p>
+            <p>Hello! My name is Mr. Phyo Thura, a burmese.</p>
+            <p>I am a 4th-year student at Mae Fah Luang University. </p>
+            <p>Major - Computer Engineering</p>
             <p>
               Fast-forward to today, and I am mostly active at{' '}
               <a href="https://www.instagram.com/wreck_ee/"> Instagram.</a>{' '}

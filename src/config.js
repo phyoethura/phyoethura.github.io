@@ -6,17 +6,17 @@ module.exports = {
       name: 'GitHub',
       url: 'https://github.com/phyoethura',
     },
-    //{
-    //  name: 'Instagram',
-    //  url: 'https://www.instagram.com/wreck_ee',
-    //},
     {
-      name: 'Twitter',
-      url: 'https://twitter.com/YPO_007',
+      name: 'Instagram',
+      url: 'https://www.instagram.com/wreck_ee',
     },
+    // {
+    //   name: 'Twitter',
+    //   url: 'https://x.com/luck0954',
+    // },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/phyothura',
+      url: 'https://www.linkedin.com/in/phyo-thura',
     },
     // {
     //   name: 'Website',
