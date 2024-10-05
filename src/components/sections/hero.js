@@ -66,7 +66,11 @@ const Hero = () => {
   );
   const four = (
     <>
-      <p>currently looking for a cloud engineer role as my internship on Jan-April 2025</p>
+      <p>
+        Enthusiastic computer engineering student with a strong interest in cloud engineering,
+        seeking and internship opportunity. Adept at problem-solving and eager to apply technical
+        skills in a practical environment.
+      </p>
     </>
   );
   const five = (

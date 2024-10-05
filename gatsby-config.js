@@ -4,10 +4,10 @@ module.exports = {
   siteMetadata: {
     title: 'Wrecky',
     description:
-      'Yan Paing Oo is a student currently attending in UIT(Yangon) Knowledge Engineering Major',
-    siteUrl: 'https://ypo777.github.io', // No trailing slash allowed!
-    image: '/og_new.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@YPO_007',
+      'Phyo Thura is a computer engineering student currently attending at Mae Fah Luang University, Thailand.',
+    siteUrl: 'https://phyoethura.github.io', // No trailing slash allowed!
+    image: 'static/og_new.png', // Path to your image you placed in the 'static' folder
+    twitterUsername: '@luck0954',
   },
 
   plugins: [
@@ -21,8 +21,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'YanPaingOo',
-        short_name: 'YanPaingOo',
+        name: 'PhyoThura',
+        short_name: 'PhyoThura',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,

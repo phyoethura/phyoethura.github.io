@@ -1,7 +1,7 @@
 ---
 date: '2021-08-12'
 title: 'Automatic Control Traffic System For Campus Network'
-github: 'https://github.com/phyoethura'
+github: 'https://github.com/phyoethura/Automatic-Control-Traffic-System-On-Campus.git'
 android: ''
 ios: ''
 tech:
