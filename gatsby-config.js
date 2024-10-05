@@ -6,7 +6,7 @@ module.exports = {
     description:
       'Phyo Thura is a computer engineering student currently attending at Mae Fah Luang University, Thailand.',
     siteUrl: 'https://phyoethura.github.io', // No trailing slash allowed!
-    image: 'static/og_new.png', // Path to your image you placed in the 'static' folder
+    image: '/og_new.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@luck0954',
   },
 
