@@ -67,9 +67,10 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        Enthusiastic computer engineering student with a strong interest in cloud engineering,
-        seeking and internship opportunity. Adept at problem-solving and eager to apply technical
-        skills in a practical environment.
+        Motivated computer engineering graduate with a strong interest in cloud engineering, seeking
+        an entry-level opportunity to contribute and grow in a dynamic environment. Skilled in
+        problem-solving and eager to apply technical knowledge to real-world cloud infrastructure
+        challenges.
       </p>
     </>
   );

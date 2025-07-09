@@ -1,11 +1,13 @@
 ---
-date: '2'
+date: '1'
 title: 'Room Reservation'
 cover: './demo.png'
 github: 'https://github.com/phyoethura/Room-Reservation-Project.git'
+external: 'https://github.com/phyoethura/Room-Reservation-Project.git'
 tech:
   - HTML/CSS
   - Javascript
+  - Nodejs
   - MYSQL
 ---
 

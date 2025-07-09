@@ -3,6 +3,7 @@ date: '3'
 title: 'Typing Pracitice Program'
 cover: './demo.png'
 github: 'https://www.github.com/ypo777/Typing-Practice-Program'
+external: 'https://www.github.com/ypo777/Typing-Practice-Program'
 cta: ''
 tech:
   - C++

@@ -135,10 +135,18 @@ const About = () => {
     'Docker',
     'Bash',
     'Javascript',
+    'NodeJs',
     'Coding(HTML/CSS)',
     'CI/CD',
+    'Github Action',
+    'Terraform',
+    'Kubernetes',
+    'AWS Services',
+    'React',
+    'Laravel',
+    'PHP',
   ];
-  const current_learning = ['Github Action', 'Terraform', 'AWS', 'Kubenetes'];
+  const current_learning = ['Angular', 'Spring Boot'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>

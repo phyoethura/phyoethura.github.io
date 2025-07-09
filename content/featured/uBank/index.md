@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'Assets Borrowing'
 cover: './demo.png'
 github: 'https://github.com/phyoethura/Borrowing-Assets.git'
